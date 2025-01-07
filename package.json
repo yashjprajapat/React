@@ -1,0 +1,40 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "First React app ",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashjprajapat/React.git"
+  },
+  "keywords": [
+    "yash",
+    "prajapat",
+    "react",
+    "first",
+    "app"
+  ],
+  "author": "Yash Prajapat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashjprajapat/React/issues"
+  },
+  "homepage": "https://github.com/yashjprajapat/React#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "postcss": "^8.4.49",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.15"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.5.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-redux": "^9.2.0",
+    "react-router-dom": "^6.27.0"
+  }
+}

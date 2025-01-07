@@ -1,1 +1,1 @@
-#First basic React program from scratch
+#First React program from scratch
