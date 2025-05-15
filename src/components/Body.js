@@ -18,7 +18,7 @@ const Body = () => {
 
   const fetchData = async () => {
     const data = await fetch(RES_API, {headers:{
-      'x-cors-api-key': 'temp_fee629d2927b9ba549f4a13b04d12c70'
+      'x-cors-api-key': 'temp_fee629d2927b9ba549f4a13b04d12c70',
     });
     const json = await data.json();
     setRestaurantList(
